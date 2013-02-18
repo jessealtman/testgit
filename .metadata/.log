@@ -1,0 +1,128 @@
+!SESSION 2013-02-15 20:15:19.479 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_37
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -startup -clean ../../../plugins/org.eclipse.equinox.launcher_1.2.0.v20110502.jar -product org.eclipse.epp.package.jee.product -startup -clean ../../../plugins/org.eclipse.equinox.launcher_1.2.0.v20110502.jar -product org.eclipse.epp.package.jee.product -keyring /Users/jessealtman/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -startup -clean ../../../plugins/org.eclipse.equinox.launcher_1.2.0.v20110502.jar -product org.eclipse.epp.package.jee.product -data /Users/jessealtman/Documents/gittest -startup -clean ../../../plugins/org.eclipse.equinox.launcher_1.2.0.v20110502.jar -product org.eclipse.epp.package.jee.product -keyring /Users/jessealtman/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2013-02-15 20:15:24.877
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:30:21.411
+!MESSAGE  WARN [2013-02-15 20:30:21,406] (BaseRetryAspect.java:isLoginExceptionRetryable:95) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:30:21.412
+!MESSAGE  WARN [2013-02-15 20:30:21,411] (BaseRetryAspect.java:isConnectionExceptionRetryable:131) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:30:21.413
+!MESSAGE  WARN [2013-02-15 20:30:21,413] (ProjectController.java:getRemotePackageNames:882) - Unable to get project packages for project 'GitTestDemoProject': Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:30:21.446
+!MESSAGE  WARN [2013-02-15 20:30:21,445] (ProjectOrganizationPage.java:prepareNextPage:258) - Unable to login: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:33:04.885
+!MESSAGE  WARN [2013-02-15 20:33:04,884] (IntroEditorInput.java:loadDocument:130) - org.xml.sax.SAXParseException: The entity name must immediately follow the '&' in the entity reference.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:48:06.906
+!MESSAGE  WARN [2013-02-15 20:48:06,904] (ResourceDeleteParticipant.java:checkConditions:182) - Change elements for delete are null or empty
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:48:14.684
+!MESSAGE  WARN [2013-02-15 20:48:14,683] (ResourceDeleteParticipant.java:checkConditions:182) - Change elements for delete are null or empty
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:49:27.629
+!MESSAGE  WARN [2013-02-15 20:49:27,628] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath '.DS_Store', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:49:27.638
+!MESSAGE  WARN [2013-02-15 20:49:27,638] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath '.DS_Store', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:49:32.903
+!MESSAGE  WARN [2013-02-15 20:49:32,902] (BuilderPayload.java:filterComponentsInConflict:264) - Retrieve result contains problem messages:
+ (1) .DS_Store: Invalid directory ''
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:49:32.903
+!MESSAGE  WARN [2013-02-15 20:49:32,903] (BuilderPayload.java:filterComponentsInConflict:268) - Remote retrieve result count [0] does not equal request count [1].
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:49:32.905
+!MESSAGE  WARN [2013-02-15 20:49:32,905] (ProjectPackageList.java:getComponentByFilePath:717) - Component not found - component list is null or empty or file path is null
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:49:32.906
+!MESSAGE  WARN [2013-02-15 20:49:32,905] (BuilderPayload.java:conflictCheck:309) - Unknown [Unknown] '.DS_Store' [unpackaged] not found in remote project package list.  Assuming no conflict.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:50:06.520
+!MESSAGE  WARN [2013-02-15 20:50:06,519] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'build.xml', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:50:06.522
+!MESSAGE  WARN [2013-02-15 20:50:06,521] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath 'build.xml', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:50:07.992
+!MESSAGE  WARN [2013-02-15 20:50:07,991] (BuilderPayload.java:filterComponentsInConflict:264) - Retrieve result contains problem messages:
+ (1) build.xml: Invalid directory ''
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:50:07.993
+!MESSAGE  WARN [2013-02-15 20:50:07,992] (BuilderPayload.java:filterComponentsInConflict:268) - Remote retrieve result count [0] does not equal request count [1].
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:50:07.994
+!MESSAGE  WARN [2013-02-15 20:50:07,994] (ProjectPackageList.java:getComponentByFilePath:717) - Component not found - component list is null or empty or file path is null
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:50:07.995
+!MESSAGE  WARN [2013-02-15 20:50:07,994] (BuilderPayload.java:conflictCheck:309) - Unknown [Unknown] 'build.xml' [unpackaged] not found in remote project package list.  Assuming no conflict.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:50:59.589
+!MESSAGE  WARN [2013-02-15 20:50:59,588] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath '.DS_Store', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:50:59.592
+!MESSAGE  WARN [2013-02-15 20:50:59,591] (ComponentFactory.java:getComponentByFilePath:613) - No id found for filepath '.DS_Store', tagging as component of type 'Unknown'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:51:00.059
+!MESSAGE  WARN [2013-02-15 20:51:00,058] (BuilderPayload.java:filterComponentsInConflict:264) - Retrieve result contains problem messages:
+ (1) .DS_Store: Invalid directory ''
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:51:00.060
+!MESSAGE  WARN [2013-02-15 20:51:00,059] (BuilderPayload.java:filterComponentsInConflict:268) - Remote retrieve result count [0] does not equal request count [1].
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:51:00.062
+!MESSAGE  WARN [2013-02-15 20:51:00,061] (ProjectPackageList.java:getComponentByFilePath:717) - Component not found - component list is null or empty or file path is null
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-15 20:51:00.063
+!MESSAGE  WARN [2013-02-15 20:51:00,062] (BuilderPayload.java:conflictCheck:309) - Unknown [Unknown] '.DS_Store' [unpackaged] not found in remote project package list.  Assuming no conflict.
+
+!SESSION 2013-02-18 08:18:13.057 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_37
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -startup -clean ../../../plugins/org.eclipse.equinox.launcher_1.2.0.v20110502.jar -product org.eclipse.epp.package.jee.product -keyring /Users/jessealtman/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -startup -clean ../../../plugins/org.eclipse.equinox.launcher_1.2.0.v20110502.jar -product org.eclipse.epp.package.jee.product -keyring /Users/jessealtman/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.resources 2 10035 2013-02-18 08:18:18.187
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.net 1 0 2013-02-18 08:18:21.937
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences

@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
+
+<channel>
+	<title>Force.com Blogs</title>
+	
+	<link>http://blogs.developerforce.com</link>
+	<description/>
+	<lastBuildDate>Fri, 15 Feb 2013 19:30:22 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://feeds.feedburner.com/SforceBlog" rel="self" type="application/rss+xml"/><feedburner:info uri="sforceblog"/><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/><feedburner:emailServiceId>SforceBlog</feedburner:emailServiceId><feedburner:feedburnerHostname>http://feedburner.google.com</feedburner:feedburnerHostname><feedburner:feedFlare href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2FSforceBlog" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FSforceBlog" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare href="http://feeds.my.aol.com/add.jsp?url=http%3A%2F%2Ffeeds.feedburner.com%2FSforceBlog" src="http://o.aolcdn.com/favorites.my.aol.com/webmaster/ffclient/webroot/locale/en-US/images/myAOLButtonSmall.gif">Subscribe with My AOL</feedburner:feedFlare><feedburner:feedFlare href="http://www.bloglines.com/sub/http://feeds.feedburner.com/SforceBlog" src="http://www.bloglines.com/images/sub_modern11.gif">Subscribe with Bloglines</feedburner:feedFlare><feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FSforceBlog" src="http://www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FSforceBlog" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FSforceBlog" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare><item>
+		<title>Tweets of the Week</title>
+		<link>http://feedproxy.google.com/~r/SforceBlog/~3/uz7nRvYMTag/tweets-of-the-week-9.html</link>
+		<comments>http://blogs.developerforce.com/developer-relations/2013/02/tweets-of-the-week-9.html#comments</comments>
+		<pubDate>Fri, 15 Feb 2013 19:30:22 +0000</pubDate>
+		<dc:creator>Katie Penn</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Developer Relations]]></category>
+		<category><![CDATA[Tweets]]></category>
+
+		<guid isPermaLink="false">http://26.12691</guid>
+		<description><![CDATA[<a href="http://blogs.developerforce.com/developer-relations/2013/02/tweets-of-the-week-9.html"><img align="left" hspace="5" width="150" src="http://blogs.developerforce.com/developer-relations/files/2013/02/Tweet-e1360178336498.jpg" class="alignleft wp-post-image tfe" alt="" title="" /></a>We love to hear from our community throughout the week. Here our some of our favorite tweets from the world of @forcedotcom. Shout out to these characters in our awesome community: &#160; &#160; Getting my learn on!#Salesforce #ForceWebinar #ForceFridays — Jason Flippen (@JFlippityFlop) February 8, 2013 Want indexing on nulls and formula values? Apparently now [...]]]></description>
+			<content:encoded><![CDATA[We love to hear from our community throughout the week. Here our some of our favorite tweets from the world of @forcedotcom. Shout out to these characters in our awesome community:
+
+&nbsp;
+
+&nbsp;
+Getting my learn on!#Salesforce #ForceWebinar #F<img src="http://feeds.feedburner.com/~r/SforceBlog/~4/uz7nRvYMTag" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://blogs.developerforce.com/developer-relations/2013/02/tweets-of-the-week-9.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://blogs.developerforce.com/developer-relations/2013/02/tweets-of-the-week-9.html</feedburner:origLink></item>
+		<item>
+		<title>How Much Data Can the Salesforce Platform Handle? You Might Be Surprised!</title>
+		<link>http://feedproxy.google.com/~r/SforceBlog/~3/LDtfr7qXfu8/how-much-data-can-the-salesforce-platform-handle-you-might-be-surprised.html</link>
+		<comments>http://blogs.developerforce.com/engineering/2013/02/how-much-data-can-the-salesforce-platform-handle-you-might-be-surprised.html#comments</comments>
+		<pubDate>Fri, 15 Feb 2013 17:07:09 +0000</pubDate>
+		<dc:creator>Steve Bobrowski</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[architecture]]></category>
+
+		<guid isPermaLink="false">http://25.6672</guid>
+		<description><![CDATA[<a href="http://blogs.developerforce.com/engineering/2013/02/how-much-data-can-the-salesforce-platform-handle-you-might-be-surprised.html"><img align="left" hspace="5" width="150" src="http://blogs.developerforce.com/engineering/files/2013/02/Arch-Core-Big.png" class="alignleft wp-post-image tfe" alt="How Much Data Can the Salesforce Platform Handle? You Might Be Surprised!" title="How Much Data Can the Salesforce Platform Handle? You Might Be Surprised!" /></a>You might have a preconceived notion of how much data a typical Sales Cloud or Force.com app can handle. As salesforce.com popularity has skyrocketed, so too has the size of databases underlying custom and standard app implementations on our cloud platforms. It might surprise you to learn ...]]></description>
+			<content:encoded><![CDATA[<p><img class="alignright size-full wp-image-6679" title="How Much Data Can the Salesforce Platform Handle? You Might Be Surprised!" src="http://blogs.developerforce.com/engineering/files/2013/02/Arch-Core-Big.png" alt="How Much Data Can the Salesforce Platform Handle? You Might Be Surprised!" width="140" height="111" />Lots of you reading this post might have a preconceived notion of how much data a typical Sales Cloud or Force.com app can handle. The truth is that as salesforce.com popularity has skyrocketed, so too has the size of databases underlying custom and standard app implementations on our cloud platforms. It might surprise you to learn that our team works regularly with customers that have large Force.com objects upwards of 10 million records.</p>
+<h1>Best Practices for Large Data Volumes on Salesforce</h1>
+<p>Being successful with large data volumes on Force.com requires a knowledge of and implementation according to many best practices around data management. For example, here are a couple examples.</p>
+<p>&nbsp;</p>
+<table cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><strong>Problem</strong></td>
+<td><strong>Best Practices</strong></td>
+</tr>
+<tr>
+<td>Slow report on a large object</td>
+<td>
+<ul>
+<li>Document your org’s indexed fields.</li>
+<li>Learn index selectivity rules.</li>
+<li>Build reports that use indexes.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Slow bulk data load</td>
+<td>
+<ul>
+<li>Cleanse and transform data pre-load.</li>
+<li>Disable triggers, validations, and workflow rules pre-load.</li>
+<li>Use the Bulk API.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Some best practices are simple, while others are a bit more challenging. In any case, I’m not going to list all such best practices for Force.com data management here in this post. For a complete list, please read <a title="Best Practices for Deployments with Large Data Volumes" href="http://www.salesforce.com/docs/en/cce/ldv_deployments/salesforce_large_data_volumes_bp.pdf">Best Practices for Deployments with Large Data Volumes</a>.</p>
+<h1>Distributed Apps and Big Data</h1>
+<p>Every individual application platform has practical limits, and that’s when distributed processing make sense. By integrating different systems together to support a single app, you can scale your app to new heights.</p>
+<p>Just as with other platforms, individual components within the Salesforce Platform each have practical limits, which shouldn’t surprise you. But the beauty of the platform is that it’s very easy to integrate different components, share state, authentication, and access controls, and thus support tremendous amounts of data for even the most demanding big data app.</p>
+<h1>The Power of the Salesforce Platform</h1>
+<p>To realize what’s possible with the Salesforce Platform for managing large amounts of data, consider the scenario in the following illustration.</p>
+<p style="text-align: center;"><img class="aligncenter size-large wp-image-6677" title="Integrating Force.com and Heroku Apps using Force.com" src="http://blogs.developerforce.com/engineering/files/2013/02/image001-1024x478.png" alt="Integrating Force.com and Heroku Apps using Force.com" width="614" height="287" /></p>
+<p>To maintain lightning fast access to operational data in the Sales Cloud, you can create an app on <a title="Heroku" href="http://heroku.com">Heroku</a> that manages historical data. You keep your Sales Cloud org lean, are in compliance with your record keeping requirements, and can optimize the Heroku app and database to deliver the analytics you need on those historical records.</p>
+<p>On top of it all, you glue together the UIs of your two apps using <a title="Force.com Canvas" href="http://wiki.developerforce.com/page/Force.com_Canvas">Force.com Canvas</a>. This technology lets you embed the UI of a remote app within a Force.com app or customized Salesforce app, such that users don’t even realize they are getting data from outside.</p>
+<p>Pretty cool and relatively easy to implement. Don’t believe me? See for yourself.</p>
+<h1>Upcoming Webinar</h1>
+<p>On February 20, Bud Vieira and I will be doing a webinar, <a title="Webinar: Extreme Salesforce Data Volumes" href="http://www.developerforce.com/events/webinars/2013-02-20/registration.php?d=70130000000t2Tt">Extreme Salesforce Data Volumes</a>, that’ll explore and demonstrate everything I just mentioned in this post. We’ll cover a plethora of data management best practices and wrap things up with a demo that integrates Sales Cloud with a Heroku app that exposed using Force.com Canvas. There’ll be some great takeaways from the webinar, including a new cheat sheet and downloadable source code that you can use to see how our demo is built. Perhaps you’ll even use it to kick start your own big data solution on the Salesforce Platform!</p>
+<h1 id="relatedresources">Related Resources</h1>
+<ul>
+<li><a title="Best Practices for Deployments with Large Data Volumes" href="http://www.salesforce.com/docs/en/cce/ldv_deployments/salesforce_large_data_volumes_bp.pdf">Best Practices for Deployments with Large Data Volumes</a></li>
+<li><a title="Force.com Canvas" href="http://wiki.developerforce.com/page/Force.com_Canvas">Force.com Canvas</a></li>
+<li><a title="Heroku" href="http://heroku.com">Heroku</a></li>
+<li><a title="Force.com Architect Core Resources" href="http://wiki.developerforce.com/page/Architect_Core_Resources" target="_blank">Architect Core Resources</a></li>
+</ul>
+<h1 id="abouttheauthorandccetechnicalenablement">About the Author and CCE Technical Enablement</h1>
+<p><a title="Steve Bobrowski on Twitter" href="https://twitter.com/sbob909" target="_blank">Steve Bobrowski</a> is an Architect Evangelist within the Salesforce Customer Centric Engineering group. The team’s mission is to help customers understand how to implement technically sound Salesforce solutions. Check out all of the resources that this team maintains on the <a title="Force.com Architect Core Resources" href="http://wiki.developerforce.com/page/Architect_Core_Resources" target="_blank">Architect Core Resources</a> page of Developer Force.</p>
+<h1></h1>
+<p>&nbsp;</p>
+<img src="http://feeds.feedburner.com/~r/SforceBlog/~4/LDtfr7qXfu8" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://blogs.developerforce.com/engineering/2013/02/how-much-data-can-the-salesforce-platform-handle-you-might-be-surprised.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://blogs.developerforce.com/engineering/2013/02/how-much-data-can-the-salesforce-platform-handle-you-might-be-surprised.html</feedburner:origLink></item>
+		<item>
+		<title>Using PHP for Canvas Applications</title>
+		<link>http://feedproxy.google.com/~r/SforceBlog/~3/mwplTZRfA3E/using-php-for-canvas-applications.html</link>
+		<comments>http://blogs.developerforce.com/developer-relations/2013/02/using-php-for-canvas-applications.html#comments</comments>
+		<pubDate>Fri, 15 Feb 2013 16:10:15 +0000</pubDate>
+		<dc:creator>Josh Birk</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[authentication]]></category>
+		<category><![CDATA[canvas]]></category>
+		<category><![CDATA[force.com]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[rest]]></category>
+		<category><![CDATA[signed request]]></category>
+
+		<guid isPermaLink="false">http://26.12675</guid>
+		<description><![CDATA[<a href="http://blogs.developerforce.com/developer-relations/2013/02/using-php-for-canvas-applications.html"><img align="left" hspace="5" width="150" src="http://blogs.developerforce.com/developer-relations/files/2013/02/Screen-Shot-2013-02-14-at-3.38.48-PM.png" class="alignleft wp-post-image tfe" alt="" title="" /></a>Canvas is a great and simple method of including your third party integrations within the Salesforce UI, and PHP is still one of the most commonly used web application languages on the planet - so how do you use these two great technologies together?  Using Canvas with the language of your choice is very similar to integrating with our API's - the first real obstacle is authenticating the user.  After that you can access our API's, and Canvas gives a speedy path to doing that with just JavaScript.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://wiki.developerforce.com/page/Force.com_Canvas">Canvas</a> is a great and simple method of including your third party integrations within the Salesforce UI, and PHP is still one of the most commonly used web application languages on the planet &#8211; so how do you use these two great technologies together?  Using Canvas with the language of your choice is very similar to integrating with our API&#8217;s &#8211; the first real obstacle is authenticating the user.  After that you can access our API&#8217;s, and Canvas gives a speedy path to doing that with just JavaScript.</p>
+<p>There are two ways to authenticate via Canvas: OAuth and a Signed Request.  My recommendation is to try using Signed Request.  If your Canvas app is configured to use it under Connected Apps, the Salesforce Platform will post the encoded authentication information to your application whenever it appears within a Canvas iframe.  So instead of the multi-step OAuth flow, there&#8217;s really one here: decode the POST information for the signed request.  Fortunately for me, <a href="http://twitter.com/RyanBrainard">Ryan Brainard</a> had already added this functionality to the source of the excellent <a href="https://github.com/ryanbrainard/forceworkbench">Workbench application</a> &#8211; so I just needed to port it to a generic example.</p>
+<p>I start the PHP application by turning on error decoding:</p>
+<pre>&lt;?php
+//turn on reporting for all errors and display
+error_reporting(E_ALL);
+ini_set("display_errors", 1);</pre>
+<p>Then I grab the Signed Request out of POST, decode and check the authenticity of the signed request by encoding it against your consumer secret:</p>
+<pre>//In Canvas via SignedRequest/POST, the authentication should be passed via the signed_request header
+//You can also use OAuth/GET based flows
+$signedRequest = $_REQUEST['signed_request'];
+$consumer_secret = $_ENV['secret'];
+
+if ($signedRequest == null || $consumer_secret == null) {
+   echo "Error: Signed Request or Consumer Secret not found";
+}
+
+//decode the signedRequest
+$sep = strpos($signedRequest, '.');
+$encodedSig = substr($signedRequest, 0, $sep);
+$encodedEnv = substr($signedRequest, $sep + 1);
+$calcedSig = base64_encode(hash_hmac("sha256", $encodedEnv, $consumer_secret, true));
+if ($calcedSig != $encodedSig) {
+   echo "Error: Signed Request Failed.  Is the app in Canvas?";
+}
+
+//decode the signed request object
+$sr = base64_decode($encodedEnv);</pre>
+<p><span style="font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;font-size: 13px;line-height: 19px">And that&#8217;s it &#8211; the application now has access to a valid access token and user information.  From here we actually have two choices: we can access the REST API via the </span><a href="https://github.com/forcedotcom/SalesforceCanvasFrameworkSDK">Canvas JavaScript SDK</a><span style="font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;font-size: 13px;line-height: 19px">, or we can make REST callouts via PHP itself.  The JavaScript SDK has the advantage that I don&#8217;t need any additional server-side code to bring information in from Salesforce.  The SDK resolves the usual JavaScript issue of cross-domain security by posting a message to the window itself, which the Canvas iframe knows to receive and respond with results.  This effectively creates a client-side proxy to the API, as JavaScript itself never leaves the current domain to receive data.</span></p>
+<p>Here is some sample JavaScript using the SDK:</p>
+<pre>&lt;script&gt;
+        var url = "/services/data/v26.0/query?q=SELECT+ID,NAME+FROM+ACCOUNT";
+	var sr = JSON.parse('&lt;?=$sr?&gt;');
+
+        $(document).ready(function() {
+		console.debug(sr);
+		$('#user-name').html(sr.context.user.fullName);
+
+	//within a Canvas iFrame, AJAX calls proxy via the window messaging
+        Sfdc.canvas.client.ajax(url,
+            {	client : sr.client,
+                method: 'GET',
+                contentType: "application/json",
+                success : function(data) {
+						console.debug('Got Data');
+						console.debug(data);
+						$('#accountTable').append(ich.accounts(data.payload));
+                }
+            });
+		});
+&lt;/script&gt;</pre>
+<p>Note that we only need to output the Signed Request from PHP &#8211; but everything else is being handled on the client.  Since we&#8217;ve got access to all the information needed to access the REST API, though, we could also use PHP itself to perform the callout.  Here&#8217;s an example of sending a REST query via a PHP library called <a href="https://github.com/nategood/httpful">Httpful</a>, which is an excellent wrapper around curl:</p>
+<pre>//As of Spring '13: SignedRequest has a client object which holds the pertinent authentication info
+$access_token = $req-&gt;client-&gt;oauthToken;
+$instance_url = $req-&gt;client-&gt;instanceUrl;
+
+//define your URI based on the user's instance
+$uri = $instance_url."/services/data/v26.0/query?q=SELECT+ID,NAME+FROM+ACCOUNT";
+
+//create REST request and decode result
+$result = HttpfulRequest::get($uri)
+    -&gt;Authorization("OAuth ".$access_token)
+    -&gt;addHeader("Content-Type","application/json")
+    -&gt;send();
+$result = json_decode($result);</pre>
+<p>And now, for either method, we&#8217;ll get an application like this in Canvas:</p>
+<p>&nbsp;</p>
+<p><a class="overlay" href="http://blogs.developerforce.com/developer-relations/files/2013/02/Screen-Shot-2013-02-14-at-3.38.48-PM.png"><img class="aligncenter size-full wp-image-12676" src="http://blogs.developerforce.com/developer-relations/files/2013/02/Screen-Shot-2013-02-14-at-3.38.48-PM.png" alt="" width="635" height="465" /></a>Which remember, as of Spring &#8217;13 &#8211; you can include within your Visualforce pages.  Hopefully this will be a leg up for PHP developers looking to integrate screens within Salesforce itself. If you want to read more on Canvas in general, head over to the <a href="http://wiki.developerforce.com/page/Force.com_Canvas">main Canvas wiki page</a>, or check out the <a href="http://wiki.developerforce.com/page/Webinar:_Intro_to_Force.com_Canvas:_Running_External_Apps_within_the_Salesforce_UI_(2012-Oct)">recent webinar</a>.  If you would like to look at the full code for the PHP pages here, I&#8217;ve got the <a href="https://github.com/joshbirk/Canvas-PHP">project up on Github</a>.  That project also includes links to install the Canvas apps into your instance.</p>
+<p>As usual, if you&#8217;ve got questions or comments &#8211; tack them onto the boxes below, or catch me on twitter <a href="http://twitter.com/joshbirk">@joshbirk</a>.</p>
+<p>&nbsp;</p>
+<img src="http://feeds.feedburner.com/~r/SforceBlog/~4/mwplTZRfA3E" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://blogs.developerforce.com/developer-relations/2013/02/using-php-for-canvas-applications.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://blogs.developerforce.com/developer-relations/2013/02/using-php-for-canvas-applications.html</feedburner:origLink></item>
+		<item>
+		<title>Force.com SOQL Best Practices: Nulls and Formula Fields</title>
+		<link>http://feedproxy.google.com/~r/SforceBlog/~3/i86O3z613HQ/force-com-soql-best-practices-nulls-and-formula-fields.html</link>
+		<comments>http://blogs.developerforce.com/engineering/2013/02/force-com-soql-best-practices-nulls-and-formula-fields.html#comments</comments>
+		<pubDate>Wed, 13 Feb 2013 12:58:19 +0000</pubDate>
+		<dc:creator>Daisuke Kawamoto</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[Performance]]></category>
+		<category><![CDATA[SOQL]]></category>
+
+		<guid isPermaLink="false">http://25.6631</guid>
+		<description><![CDATA[<a href="http://blogs.developerforce.com/engineering/2013/02/force-com-soql-best-practices-nulls-and-formula-fields.html"><img align="left" hspace="5" width="150" src="http://blogs.developerforce.com/engineering/files/2013/02/appfinder-search.png" class="alignleft wp-post-image tfe" alt="Force.com SOQL Best Practices: Nulls and Formula Fields" title="" /></a>Best practices for building Salesforce SOQL queries on large data volumes (LDV) included avoiding filtering on fields with nulls, and formula fields. If you're implementing new queries—or want to clean up some of the workarounds you implemented prior to the Winter ’13 release—consider these updates related to filtering on nulls and formula fields.]]></description>
+			<content:encoded><![CDATA[<p><a class="overlay" href="http://blogs.developerforce.com/engineering/files/2013/02/appfinder-search.png"><img class="size-full wp-image-6634 alignright" src="http://blogs.developerforce.com/engineering/files/2013/02/appfinder-search.png" alt="Force.com SOQL Best Practices: Nulls and Formula Fields" width="102" height="102" /></a>Until the Winter ‘13 release, best practices for building Salesforce SOQL queries on large data volumes (LDV) included avoiding filtering on fields with <code>null</code>s, and similarly avoiding filtering on formula fields. If you plan to implement new queries—or want to clean up some of the workarounds you implemented before the Winter ’13 release—consider the following updates related to filtering on <code>null</code>s and formula fields, which could help tune your SOQL performance.</p>
+<h1>Custom Indexes for Deterministic Formula Fields</h1>
+<p>Formula fields are custom fields that can help you dynamically calculate the value of a field based on other fields, expressions, or values.</p>
+<p>As you can with any other field, you can use formula fields to filter SOQL queries. For example, you might write a query such as:</p>
+<pre>SELECT Id, Name FROM Contact WHERE FormulaField__c = '10';</pre>
+<p>Just because you can filter queries using a formula field doesn&#8217;t mean that you should, however. By default, formula fields don’t have underlying indexes, so they require full scans to find target records. They also have to calculate values on the fly because actual values are not stored in the database. So when an object has a lot of records, queries that filter using a formula field can be painfully slow.</p>
+<p>To get around the pre-Summer &#8217;12 index limitations involving formula fields, many customers created workarounds. For example, you might have created triggers or workflow rules to store formula field values in a separate custom field that you could index, and then built queries that filtered using the custom field instead of the formula field. That strategy works, but it requires overhead and is not intuitive to developers.</p>
+<p>Since the Winter &#8217;13 release, you have been able to contact salesforce.com Customer Support to create a custom index on a formula field, provided that the function that defines the formula field is deterministic.</p>
+<p>Here are examples of common non-deterministic formulas. Force.com cannot index fields that:</p>
+<ul>
+<li>Reference other entities (i.e., fields accessible through lookup fields)</li>
+<li>Include other formula fields that span over other entities</li>
+<li>Use dynamic date and time functions (e.g., <code>TODAY</code>, <code>NOW</code>)</li>
+</ul>
+<p>A formula is also considered non-deterministic when it includes:</p>
+<ul>
+<li>Owner, autonumber, divisions, or audit fields (except for CreatedDate and CreatedByID fields)</li>
+<li>References to fields that Force.com cannot index</li>
+<ul>
+<li>Multi-select picklists</li>
+<li>Currency fields in a multicurrency organization</li>
+<li>Long text area fields</li>
+<li>Binary fields (blob, file, or encrypted text)</li>
+</ul>
+<li>Standard fields with special functionalities</li>
+<ul>
+<li>Opportunity: Amount, TotalOpportunityQuantity, ExpectedRevenue, IsClosed, IsWon</li>
+<li>Case: ClosedDate, IsClosed</li>
+<li>Product: Product Family, IsActive, IsArchived</li>
+<li>Solution: Status</li>
+<li>Lead: Status</li>
+<li>Activity: Subject, TaskStatus, TaskPriority</li>
+</ul>
+</ul>
+<p>Because values might vary over time or change when a transaction updates a related entity, Force.com cannot index non-deterministic formulas.</p>
+<p>Remember that indexing a deterministic formula field does not alone guarantee that the Force.com platform will always use it; general selectivity rules still apply. For more information about selective SOQL queries, see <a title="Working with Very Large SOQL Queries" href="http://www.salesforce.com/us/developer/docs/apexcode/Content/langCon_apex_SOQL_VLSQ.htm">Working with Very Large SOQL Queries</a>. To ask for an indexing evaluation for building new custom indexes on your deterministic formula fields, contact salesforce.com Customer Support.</p>
+<p>&nbsp;</p>
+<h1>Custom Indexes Containing null Rows</h1>
+<p>Customers often need to query an object and find only the records in which a certain field is empty (i.e., null<code>)</code>. For example:</p>
+<pre>SELECT Id, Name FROM Contact WHERE CustomField__c = null;</pre>
+<p>That sounds simple enough, but when your query targets an object that has a lot of records, consider the performance implications. By default, underlying Force.com field indexes don’t include <code>null</code>s. Therefore, queries such as the examples in this post require full scans, which again can be painfully slow.</p>
+<p>Since the Winter &#8217;13 release, you have been able to work with salesforce.com Customer Support to create custom indexes that include <code>null</code> rows. Even if you already have custom indexes on your custom fields, they need to be explicitly enabled and rebuilt to get the empty-value rows into index tables.</p>
+<p>Note that this option does not apply to picklists, external IDs, and foreign key fields. If you need to query on a <code>null</code> external ID field, you can work with salesforce.com Customer Support to create a two-column (compound) index instead.</p>
+<p>Again, creating a custom index with <code>null</code> records does not alone guarantee that the platform will always make effective use of it, and general selectivity rules still apply. For best practices about filtering on fields with <code>null</code>, see <a title="Best Practices for Deployments with Large Data Volumes" href="http://www.salesforce.com/docs/en/cce/ldv_deployments/salesforce_large_data_volumes_bp.pdf">Best Practices for Deployments with Large Data Volumes</a>.</p>
+<h1>Summary</h1>
+<p>When building your SOQL queries, consider the following new filtering options: filtering on deterministic formula fields and filtering on <code>null</code>s. While not all types of formula fields or fields with <code>null</code>s can benefit from these new options, they’re definitely worth exploring if you want to simplify your implementation and tune your SOQL performance.</p>
+<p>Remember that to set up custom indexes and enable the <code>null</code> indexing option, you must contact salesforce.com Customer Support. And if you would like to learn more about other techniques to optimize your queries, grab an updated copy of our <a title="Best Practices for Deployments with Large Data Volumes" href="http://www.salesforce.com/docs/en/cce/ldv_deployments/salesforce_large_data_volumes_bp.pdf">Best Practices for Deployments with Large Data Volumes</a> white paper!</p>
+<h1>Related Resources</h1>
+<ul>
+<li><a title="Best Practices for Deployments with Large Data Volumes" href="http://www.salesforce.com/docs/en/cce/ldv_deployments/salesforce_large_data_volumes_bp.pdf">Best Practices for Deployments with Large Data Volumes</a></li>
+<li><a title="Architect Core Resources" href="http://wiki.developerforce.com/page/Architect_Core_Resources">Architect Core Resources</a></li>
+<li><a title="Working with Very Large SOQL Queries" href="http://www.salesforce.com/us/developer/docs/apexcode/Content/langCon_apex_SOQL_VLSQ.htm">Working with Very Large SOQL Queries</a></li>
+</ul>
+<h1>About the Author and CCE Technical Enablement</h1>
+<p><a title="@DaisukeSfdc" href="https://twitter.com/DaisukeSfdc">Daisuke Kawamoto</a> is a member of the Technical Enablement team within the salesforce.com Customer-Centric Engineering group. The team’s mission is to help customers understand how to implement technically sound salesforce.com solutions. Check out all of the resources that this team maintains on the <a title="Architect Core Resources" href="http://wiki.developerforce.com/page/Architect_Core_Resources">Architect Core Resources</a> page of Developer Force.</p>
+<img src="http://feeds.feedburner.com/~r/SforceBlog/~4/i86O3z613HQ" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://blogs.developerforce.com/engineering/2013/02/force-com-soql-best-practices-nulls-and-formula-fields.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://blogs.developerforce.com/engineering/2013/02/force-com-soql-best-practices-nulls-and-formula-fields.html</feedburner:origLink></item>
+		<item>
+		<title>Mobile SDK 1.5: Additional Security and Developer Enhancements</title>
+		<link>http://feedproxy.google.com/~r/SforceBlog/~3/Cg2eptOznJg/mobile-sdk-1-5-additional-security-and-developer-enhancements.html</link>
+		<comments>http://blogs.developerforce.com/engineering/2013/02/mobile-sdk-1-5-additional-security-and-developer-enhancements.html#comments</comments>
+		<pubDate>Tue, 12 Feb 2013 22:56:13 +0000</pubDate>
+		<dc:creator>Eugene Oksman</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://25.6656</guid>
+		<description><![CDATA[The 1.5 release of the Mobile SDK is now on GitHub. Latest enhancements include: Updated iOS and Android SDKs to Cordova 2.3 Make sure to change all the older cordova-xx.js references to cordova-2.3.0.js in your projects Security Enhancem]]></description>
+			<content:encoded><![CDATA[The 1.5 release of the Mobile SDK is now on GitHub.
+
+Latest enhancements include:
+
+Updated iOS and Android SDKs to Cordova 2.3
+Make sure to change all the older cordova-xx.js references to cordova-2.3.0.js in your projects
+
+Security Enhancem<img src="http://feeds.feedburner.com/~r/SforceBlog/~4/Cg2eptOznJg" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://blogs.developerforce.com/engineering/2013/02/mobile-sdk-1-5-additional-security-and-developer-enhancements.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://blogs.developerforce.com/engineering/2013/02/mobile-sdk-1-5-additional-security-and-developer-enhancements.html</feedburner:origLink></item>
+		<item>
+		<title>Win the Most Unique Premium Ever</title>
+		<link>http://feedproxy.google.com/~r/SforceBlog/~3/hGKCIiJysWg/win-the-most-unique-premium-ever.html</link>
+		<comments>http://blogs.developerforce.com/labs/2013/02/win-the-most-unique-premium-ever.html#comments</comments>
+		<pubDate>Tue, 12 Feb 2013 15:32:54 +0000</pubDate>
+		<dc:creator>Reid Carlberg</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://29.3523</guid>
+		<description><![CDATA[<a href="http://blogs.developerforce.com/labs/2013/02/win-the-most-unique-premium-ever.html"><img align="left" hspace="5" width="150" src="http://blogs.developerforce.com/labs/files/2013/02/reid-carlberg-three-years-at-salesforce.jpg" class="alignleft wp-post-image tfe" alt="" title="" /></a>Next week I celebrate three years with Salesforce. It's been a lot of fun. I've travelled the world, met lots of nice people and seen hundreds of great apps.  I've taught developers how to succeed on the AppExchange and even let you control my model trains.  But there's one thing I have never been able to do -- until today.]]></description>
+			<content:encoded><![CDATA[<p>&nbsp;</p>
+<p><a class="overlay" href="http://blogs.developerforce.com/labs/files/2013/02/reid-carlberg-three-years-at-salesforce.jpg"><img class="aligncenter size-full wp-image-3525" src="http://blogs.developerforce.com/labs/files/2013/02/reid-carlberg-three-years-at-salesforce.jpg" alt="" width="500" height="375" /></a></p>
+<p>Next week <a href="http://blogs.developerforce.com/labs/2010/03/theres-an-evangelist-for-that.html">I celebrate three years with Salesforce</a>. <strong>It&#8217;s been a lot of fun.</strong> I&#8217;ve travelled the world, met lots of nice people and seen hundreds of great apps.  I&#8217;ve<a href="http://wiki.developerforce.com/page/Webinar:_AppExchange_for_Developers_(2012-Dec)"> taught developers how to succeed on the AppExchange</a> and even <a href="http://blogs.developerforce.com/reid-carlberg/2011/11/weekend-projects-force-com-arduino-ruby-trains.html">let you control my model trains</a>.</p>
+<p>But there&#8217;s one thing I have never been able to do &#8212; until today.</p>
+<p>You might remember the awesome Force.com Labs Mug. It&#8217;s a classic, and I still see it in use around the office, three years later.  In fact, rumor has it that <a href="http://blogs.developerforce.com/developer-relations/author/dana-le">our very own Dana Le</a> uses hers every single day.</p>
+<p>But it was for employees only.</p>
+<p><a class="overlay" href="http://blogs.developerforce.com/labs/files/2013/02/release-your-inner-app-salesforce-labs.jpg"><img class="aligncenter size-full wp-image-3526" src="http://blogs.developerforce.com/labs/files/2013/02/release-your-inner-app-salesforce-labs.jpg" alt="" width="375" height="500" /></a></p>
+<p>You might remember the Labs shirt. Also a classic. Also employees only.</p>
+<p>In fact, I have never been able to give away a Labs themed premium to a non-employee before. But today &#8212; today my friend &#8212; that all changes.</p>
+<p>That&#8217;s right. You can win the most unique Labs premium ever. You will be the ONLY non-employee to sport it. And it&#8217;s made of such high quality materials, it will last you a lifetime.</p>
+<p>Introducing the Salesforce Labs backpack, customized, and specially embroidered by legendary outfitter <a href="http://www.tombihn.com/SFNT.html">Tom Bihn</a>. Made at his factory in Seattle.</p>
+<p><a class="overlay" href="http://blogs.developerforce.com/labs/files/2013/02/Salesforce-Labs-Backpack-500.png"><img class="aligncenter size-full wp-image-3527" src="http://blogs.developerforce.com/labs/files/2013/02/Salesforce-Labs-Backpack-500.png" alt="" width="500" height="592" /></a></p>
+<p>I have taken mine to Puerto Rico, San Francisco, New York, London, Rio de Janeiro and even the <a href="http://www.onthesnow.com/michigan/boyne-highlands/ski-resort.html">wild ski country of northern Michigan</a> (try not to be jealous, you Lake Tahoe aficionados). <strong>It is the best backpack I have ever used in my entire life.  </strong>It includes a fantastic laptop section that protects the goods and sports an impressive lack of decorative zippers.  It is no nonsense, practical and cavernous.</p>
+<p>And one can be yours &#8212; if you earn it.</p>
+<p>Here&#8217;s how it works.</p>
+<p><strong>Between now and 11:59p Pacific time on February 28, 2013, all you have to do is help other users of Labs apps solve their problems.</strong> You can do this in reviews on the <a href="http://appexchange.salesforce.com">AppExchange</a>, the <a href="http://boards.developerforce.com/t5/Salesforce-Labs-Open-Source/bd-p/labs">Developer Boards</a>, <a href="http://success.salesforce.com/answers">Salesforce Answers</a> or any other place you might find one &#8212; even on an external blog or on the <a href="http://salesforce.stackexchange.com/">Salesforce Stack Exchange</a>.</p>
+<p>Spot a Labs related question, solve the problem and then &#8212; and this is important &#8212; Twitter a link to your solution to <a href="http://twitter.com/ForceDotComLabs">@ForceDotComLabs</a>. Whoever solves the most problems AND tells me about it by Twittering a link to @ForceDotComLabs before the deadline will win the backpack.</p>
+<p><strong>To make things interesting: any answer posted before 11:59p PT Monday February 18th is worth double.</strong></p>
+<p>Note, that I must be able to validate the answers, must agree that you solved the questioner&#8217;s problem and must be able to clearly and easily match usernames on the different forums. If you don’t have a Twitter account, you’ll need to sign up in order in order to participate.  Any unsolved problem is fair game.  This is all in good fun, so in the event of some kind of disagreement or a tie, I will resolve it in the most amusing way I can think of.</p>
+<p>Help out your fellow fans of Labs and get a sweet backpack.  Winner announced on Friday, March 1, 2013.</p>
+<p>&nbsp;</p>
+</div>
+<img src="http://feeds.feedburner.com/~r/SforceBlog/~4/hGKCIiJysWg" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://blogs.developerforce.com/labs/2013/02/win-the-most-unique-premium-ever.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://blogs.developerforce.com/labs/2013/02/win-the-most-unique-premium-ever.html</feedburner:origLink></item>
+		<item>
+		<title>Open CTI—Say Goodbye to CTI Adapters</title>
+		<link>http://feedproxy.google.com/~r/SforceBlog/~3/7GR-hWhGsQI/open-cti%e2%80%94say-goodbye-to-cti-adapters.html</link>
+		<comments>http://blogs.developerforce.com/tech-pubs/2013/02/open-cti%e2%80%94say-goodbye-to-cti-adapters.html#comments</comments>
+		<pubDate>Mon, 11 Feb 2013 19:17:46 +0000</pubDate>
+		<dc:creator>Gavin Austin</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[CTI]]></category>
+		<category><![CDATA[documentation]]></category>
+		<category><![CDATA[Integration]]></category>
+		<category><![CDATA[service cloud]]></category>
+
+		<guid isPermaLink="false">http://28.5402</guid>
+		<description><![CDATA[<a href="http://blogs.developerforce.com/tech-pubs/2013/02/open-cti%e2%80%94say-goodbye-to-cti-adapters.html"><img align="left" hspace="5" width="150" src="http://blogs.developerforce.com/tech-pubs/files/2013/02/OpenCTI150x88.jpg" class="alignleft wp-post-image tfe" alt="" title="OpenCTI150x88" /></a>The latest  computer-telephony integration (CTI) offering from Salesforce is Open CTI.  It differs dramatically from previous Salesforce CTI offerings in that it doesn't require users to install CTI adapter programs on their machines to use Salesfo]]></description>
+			<content:encoded><![CDATA[The latest  computer-telephony integration (CTI) offering from Salesforce is Open CTI.  It differs dramatically from previous Salesforce CTI offerings in that it doesn't require users to install CTI adapter programs on their machines to use Salesfo<img src="http://feeds.feedburner.com/~r/SforceBlog/~4/7GR-hWhGsQI" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://blogs.developerforce.com/tech-pubs/2013/02/open-cti%e2%80%94say-goodbye-to-cti-adapters.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://blogs.developerforce.com/tech-pubs/2013/02/open-cti%e2%80%94say-goodbye-to-cti-adapters.html</feedburner:origLink></item>
+		<item>
+		<title>Ask the PM – What is Force.com Canvas?</title>
+		<link>http://feedproxy.google.com/~r/SforceBlog/~3/DC0C_6nUBdo/ask-the-pm-what-is-force-com-canvas.html</link>
+		<comments>http://blogs.developerforce.com/tech-pubs/2013/02/ask-the-pm-what-is-force-com-canvas.html#comments</comments>
+		<pubDate>Mon, 11 Feb 2013 18:11:47 +0000</pubDate>
+		<dc:creator>Dianne Siebold</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[canvas]]></category>
+		<category><![CDATA[force.com canvas]]></category>
+		<category><![CDATA[UI integration]]></category>
+
+		<guid isPermaLink="false">http://28.5391</guid>
+		<description><![CDATA[<a href="http://blogs.developerforce.com/tech-pubs/2013/02/ask-the-pm-what-is-force-com-canvas.html"><img align="left" hspace="5" width="150" src="http://blogs.developerforce.com/tech-pubs/files/2013/02/your_canvas_app_here_small-300x226.png" class="alignleft wp-post-image tfe" alt="" title="" /></a>Take an inside look at Force.com Canvas with this Q&#38;A discussion. Find out what the feature is, what you can do with it and how it works.]]></description>
+			<content:encoded><![CDATA[<p><a class="overlay" href="http://blogs.developerforce.com/tech-pubs/files/2013/02/your_canvas_app_here_small.png"><img class="alignleft size-medium wp-image-5412" src="http://blogs.developerforce.com/tech-pubs/files/2013/02/your_canvas_app_here_small-300x226.png" alt="" width="300" height="226" /></a></p>
+<p><em>Force.com Canvas is an exciting new feature for integrating new or existing Web apps into Salesforce. I sat down with Jay Hurst, the PM for Force.com Canvas, and we talked about what the feature is, what problems it solves and how it works.</em></p>
+<p><em><strong>D:</strong> Thanks for meeting with me today</em>.</p>
+<p><strong>J:</strong> No problem. I’m always happy to get a chance to talk about Force.com Canvas.</p>
+<p><strong>THE 10,000-FOOT VIEW</strong></p>
+<p><em><strong>D:</strong> Before we dive into the details, can you explain what Force.com Canvas is?</em></p>
+<p><strong>J:</strong> Sure can, thanks, Dianne. Force.com Canvas is a framework that allows you to take your existing Web-based applications and expose them inside of Salesforce. The way it works is that inside Salesforce you define the Canvas app and its metadata such as the endpoint URL, icon logos, and other app-specific information. Once that’s created, we open up a window inside the Salesforce UI and load your app UI inside it. The UI integration is the base layer of the framework.</p>
+<p><em><strong>D:</strong> I see. So that’s the basic scenario?</em></p>
+<p><strong>J:</strong> Right. But with the Force.com Canvas SDK, we also allow you the ability to integrate with the Salesforce data layer through our existing APIs. That means your application not only has the ability to display inside Salesforce, but it can also act on Salesforce data itself. The idea is to give you an easy solution to take all the existing apps in your world and surface them inside Salesforce, to allow those apps and Salesforce to talk to each other, and ultimately, give your end users a seamless end-to-end experience where they can have all the resources they need at their fingertips. It’s great for end users because it means they can avoid the context switching from one app to another and focus on the important aspects of their jobs.</p>
+<p><em><strong>D:</strong> Awesome. And this is all done without Apex or Visualforce or any other platform technologies?</em></p>
+<p><strong>J:</strong> I like to think of Force.com Canvas as not exclusive of those technologies, but rather it gives you the ability to leverage those technologies with your applications. A good example of that is in our Spring ’13 release we give you the ability to take a canvas app and actually load it onto a Visualforce page. So that means anywhere you can put a Visualforce page you can now also have a canvas app. This gives you the ability to modify the Salesforce UI as you would through Visualforce, but then also bring in your external Web applications.</p>
+<p>I don’t want to give the impression that this replaces any existing technologies that we have out there. We still love Visualforce, we still love Apex, but this is just another tool in your development tool chest. Instead of forcing your developers to learn Visualforce and Apex to rebuild an existing application, with Force.com Canvas, you can use any language that you choose to create the source Web app.</p>
+<p><em><strong>D:</strong> That’s a compelling benefit.</em></p>
+<p><strong>J:</strong> Absolutely. If your developers are .NET developers or Java developers, they can continue to use familiar tools to build Web apps, and then you can just surface those apps at the UI layer. It’s really just a tool to enable your developers to become more productive.</p>
+<p><em><strong>D:</strong> Now, there may be some developers that don’t know what a canvas app is. Where does that term come from? In other words, what is a canvas app, for those that don’t know?</em></p>
+<p><strong>J:</strong> We want developers to think of canvas as an area inside Salesforce that you can paint on, where you can draw your own UI. With Force.com Canvas, you would first define your app URL, for example, <strong>www.test.com/canvas.jsp</strong>. Then you can take that very UI and put it in the canvas area inside Salesforce. We ask for the HTML that your app would display and just display it right within Salesforce.</p>
+<p><em><strong>D:</strong> Very cool. That means that a customer could make Salesforce a one-stop shop for their users where they could access all the apps they need to get their job done?</em></p>
+<p><strong>J:</strong> Definitely. From my side as product manager for Force.com Canvas, I’d love to have customers and partners think of this as the way you can turn Salesforce into your command center. All your end users want is to be able to get their job done as quickly as possible so they can sell more or close more cases or whatever it is they need to do.</p>
+<p><strong>FORCE.COM CANVAS IN THE REAL WORLD</strong></p>
+<p><em><strong>D:</strong> Excellent. So what are some real-world situations where customers are using this feature and seeing the benefits from it?</em></p>
+<p><strong>J:</strong> We’re in a pilot phase right now, so there’s a lot of experimentation and proof of concepts being done, but I have seen some good examples recently. Most of what I’ve seen is customers leveraging existing apps.</p>
+<p><em><strong>D:</strong> That makes sense.</em></p>
+<p><strong>J:</strong> For example, a customer may have an existing task management system where their users log all of their calls. While they are in the process of migrating over to Salesforce, their users continue to use the existing task management system. So instead of forcing their users to learn a new tool and lose productivity, they can leverage the task management system from within Salesforce. Their users can still create tasks and continue to use the same business process within the current system, but yet they’re working within Salesforce. At the same time, it starts to build the connection with end users that Salesforce is the CRM product and what you want your users to work in.</p>
+<p>In addition to making development easier, canvas apps enable to you to increase your adoption by enabling users to reside within Salesforce on a more regular basis.</p>
+<p><em><strong>D:</strong> This feature is also very relevant for partners, isn’t it?</em></p>
+<p>Yes, so that’s an example of how a customer is using Force.com Canvas. From the partner side, it becomes a little more interesting in some respects. Our current ISV partner strategy is really powerful. Our ISV partners have the ability to create very rich applications on the Force.com platform, list them on the AppExchange and then monetize their apps by selling them to our joint customers. So Customer A could develop an app that Customer B could then install in their organization.</p>
+<p>Now with Force.com Canvas, we start to leverage our partners’ off-platform content. So if a partner has an existing product and they want to leverage that within Salesforce, rather than having to re-code it from scratch to bring it into Salesforce, they can use Force.com Canvas. They can use a hybrid approach where some of the content, like a custom object, is native to Salesforce and some of the content is off-platform. This is a big win because now our partners no longer have to completely redesign their apps from the ground up. We allow them to take advantage of their IP and what their brilliant developers have already built.</p>
+<p><strong>THE TECHNICAL DETAILS</strong></p>
+<p><em><strong>D:</strong> Interesting. And like you said, you’re not just exposing an existing application in the UI, but you can also start integrating your apps with Salesforce by bringing Salesforce data into your app and also going the other direction and saving data to Salesforce.</em></p>
+<p><strong>J:</strong> Exactly, and this is a question I get a lot: “Where’s the new technology? I’ve always been able to do this inside Salesforce by putting an iFrame inside a Visualforce page. Where’s the differentiation between this and Force.com Canvas?”</p>
+<p><em><strong>D:</strong> Yeah, good question!</em></p>
+<p><strong>J:</strong> If you’ve built such a solution in Salesforce, it works and there’s nothing wrong with it. But with the Force.com Canvas framework, we’ve done a couple of things that standardize development and make it easier for your developers. The first part is the connected apps framework. Connected apps are a way to allow third-party apps inside your system without giving them the full access rights of the end user using the app. Currently, if you build a Visualforce page and do this, you end up sending your user session ID to the third-party app.</p>
+<p>Now, this works great, but the problem is that this session ID has full access as the user, which may or may not be what you want. A lot our larger enterprise customers don’t want to give third-party applications the “keys to the kingdom” so to speak. With the connected apps framework–which canvas apps leverage–developers have the ability to only request the scopes of access needed. For instance, if your app needs to use the Chatter API, you can specify that level of access. Or if your app needs to call the standard REST or SOAP APIs, you could specify that level access. This makes administrators much more comfortable installing those apps. Plus, it’s a much better way to lock down access to Salesforce.</p>
+<p>The second part we offer is an XHR bridge. One of the big problems with iFrames and mashup UIs is what’s called the “same origin policy.” This is a Web standard that says if you have content from one domain being displayed in a frame from another domain, the app can’t take over and make calls directly to the parent frame. This is to protect the end user because if this was allowed, an app in an iFrame could take over a user session and gain access to information that it shouldn’t be able to access. In a nutshell, this policy prevents an iFrame from communicating with its parent container.</p>
+<p>To work around this, in Visualforce, for example, what developers do is make server to server calls. The third-party app has the user session ID, and if it needs to make an API call, it makes it from the third-party app server to the Salesforce server. The Salesforce server then responds back to the third-party app server which then passes the info to the third-party app. So it’s a longer round trip.</p>
+<p><em><strong>D:</strong> Yeah, there’s a lot of chattiness there.</em></p>
+<p><strong>J:</strong> Right. With Force.com Canvas, there’s an XHR bridge. So the canvas SDK takes the request from the app inside iFrame and posts it to a listener. The listener then makes the request on your behalf. Let’s say you wanted to update an account record from your Web app. The iFrame would communicate with the SDK and pass it the account info to update. The XHR bridge then passes that request to Salesforce, the account is updated, and then the response is sent from Salesforce back to the Web app. This is all done in the browser. So it saves that full round-trip request, and makes it easier and quicker.</p>
+<p>The third part is that we have some preferential placement inside of Salesforce. Your canvas app can be exposed on the Chatter tab and on Visualforce pages. In the future, we’d like to have even more places where your canvas apps can be exposed. Visualforce is powerful, and anywhere you can have a Visualforce page, you can now have a canvas app. But up until now, you haven’t been able to break into the Chatter tab.</p>
+<p><strong>DEVLOPER CONSIDERATIONS</strong></p>
+<p><em><strong>D:</strong> That’s a great summary of all the benefits of Force.com Canvas. So for developers that are looking into how to integrate their existing Web apps, what are some considerations? Is it a complex process?</em></p>
+<p><strong>J:</strong> I like to think of it as being as complex as you want it to be <em>[laughs]</em>. With this framework, you can do a simple surfacing of your Web app where you simply display your app within Salesforce. For example, you might have a great weather app that you want your users to have access to. In that case, you may not need the communication between your Web app and Salesforce. That’s extremely simple. You wouldn’t have to make any changes to your app-you could simply create the canvas app, give it the URL of the Web app, save it and you’re done.</p>
+<p>On the other hand, if you have an application like SAP, for example, it would be a more complex scenario. You’d have to leverage the SAP framework to build the UI that you want to display in Salesforce. Then you would use the Force.com Canvas SDK from within that framework and build the logic to, say, retrieve an SAP order and then save it as an opportunity in Salesforce. You can really handle any size integration with Force.com Canvas whether it’s a simple informational app or a very complex app.</p>
+<p>One of the biggest challenges with Force.com Canvas isn’t the integration layer, because in most cases, your team already knows that side of it and they know what they want to connect with Salesforce. The more difficult part is the fit-and-finish UI piece. As part of the SDK, we give you some CSS recommendations to help you match the look and feel of your Web app to that of Salesforce. Ideally, this makes it as seamless as possible to the end user. This means your developers may need to make some UI changes to your app.</p>
+<p>If your Web app is bright green and red and you just stick that right inside the Salesforce blue and white theme, it would be somewhat jarring to the end user. And it would highlight the fact that it’s content from a different system. You can use the SDK and the CSS files that we provide to give your users a seamless UI experience.</p>
+<p><em><strong>D:</strong> On that note, it’s good to highlight some of the challenges partners and developers might face so that they’re prepared when they start looking at the scope of integrating their Web apps. Are there any other things you think developers should start thinking about as they start investigating this?</em></p>
+<p><strong>J:</strong> As you start to think about moving your Web apps into Salesforce using Force.com Canvas, you want to start thinking about how tightly coupled you want the information to be between your Web app and the Salesforce organization.</p>
+<p>In some cases, you don’t want any coupling at all and you want to do queries back and forth, and there’s nothing wrong with that. But as you start to develop links between your data and the Salesforce data, it’s really important to map that out. You want to understand which objects and fields on your app side map to which objects and fields on the Salesforce side. You want to consider whether you’ll need to create some new custom objects to hold this information. Like any development project, the more time you spend on design, the easier the development is.</p>
+<p><em><strong>D:</strong> Absolutely. Measure twice and cut once. What’s a good way for developers to get started using Force.com Canvas?</em></p>
+<p><strong>J:</strong> With the Spring ’13 release, every new Developer Edition organization has Force.com Canvas automatically enabled. If you have an existing Developer Edition organization that doesn’t have the feature enabled, just go ahead and file a support ticket and we can enable the feature. If you have an existing Enterprise or Unlimited Edition organization or a sandbox organization that you like to use to test out Force.com Canvas, do the same thing–file a support ticket and we can get that enabled.</p>
+<p>There is one consideration related to the connected apps framework, which as we mentioned previously, canvas apps use. If you have existing remote access applications inside your organization, they’ll need to be migrated to the new connected apps framework, which may require some code changes. If you have existing remote access applications, let the support team know when you file the ticket and we can work with you on the best way to enable the feature.</p>
+<p><strong>HOW TO GET STARTED</strong></p>
+<p><em><strong>D:</strong> If a developer wants to quickly start looking at canvas apps, isn’t there a quick start feature?</em></p>
+<p><strong>J:</strong> Right, we have a couple of good resources to help developers get started. The first is your <a href="http://www.salesforce.com/us/developer/docs/platform_connect/canvas_framework.pdf" target="_blank">Force.com Canvas Developer’s Guide</a>.</p>
+<p><em><strong>D:</strong> That’s right, there’s a <a href="http://www.salesforce.com/us/developer/docs/platform_connect/index_Left.htm#StartTopic=Content/quick_start_simple_intro.htm" target="_blank">super-simple quick start</a> that developer’s can use to get an idea of how the feature works.</em></p>
+<p><strong>J:</strong> There’s also an excellent page on <a href="http://wiki.developerforce.com/page/Force.com_Canvas" target="_blank">Developerforce</a> that’s our portal to all the Force.com Canvas resources.</p>
+<p>We’ve also created a really interesting quick start with our Heroku platform. If you’re not familiar with Heroku, they have what’s called a polyglot platform, which means you can run different languages on this platform in the cloud. With Heroku, you can create a Java application, host it on Heroku and have an app up and running very quickly. But you can also create apps in Ruby, PHP, Python, and so on. Since Heroku is a part of the Salesforce.com ecosystem, it is a great way to get up and running quickly.</p>
+<p><em><strong>D:</strong> So they’ve got options!</em></p>
+<p><strong>J:</strong> Indeed. And with Force.com Canvas, we have a Heroku quick start right within the Salesforce application. In the Canvas App Previewer, you just click the Heroku Quick Start button, fill out a few fields, and then it will spin up either a Java or Ruby app. It’s a simple “hello world” app that displays some information for the current user.</p>
+<p><em><strong>D:</strong> It sounds like this quick start encapsulates the whole canvas app process.</em></p>
+<p><strong>J:</strong> Exactly. The process only takes about 30 seconds if you have a Heroku account, and you’ll have a Heroku application up and running that displays inside of Salesforce. It’s a very easy and quick way to get started. It creates the app on the Heroku side and also creates the canvas app on the Salesforce side that actually exposes that Heroku app.</p>
+<p>It’s a “hello world” app, so it’s very simple. But it shows you examples of how the app handles passing context so that your Web app can get information about who the Salesforce user is. It also shows you how to do calls back through our XHR bridge by posting from the app to the current user’s Chatter feed. So it’s really a good first step into the world of Force.com Canvas.</p>
+<p><strong>WE WANT YOUR FEEDBACK</strong></p>
+<p><em><strong>D:</strong> Great! Thanks so much for taking the time to talk with us and paint a picture of what this feature is and how customers can use it. Any final thoughts you’d like to share?</em></p>
+<p><strong>J:</strong> I encourage customers to start testing the feature and getting their feet wet to see how it might work in their organizations. I want to let everyone know that we’re still in pilot, and I’d love to hear where there are gaps in the functionality or features that would be helpful. If customers have any feedback, they can contact me directly at <a href="mailto:jhurst@salesforce.com">jhurst@salesforce.com</a>.</p>
+<p>Also, I’m very interested in seeing the projects that our customers and partners come up with. So as you’re developing with Force.com Canvas, keep me in the loop and let me know what you’re building and how you’re leveraging the ability to communicate with Salesforce.</p>
+<p><em><strong>D:</strong> OK, that’s an open call for feedback!</em></p>
+<p><strong>J:</strong> Definitely.</p>
+<p><em><strong>D:</strong> Thanks, Jay.</em></p>
+<p><strong>J:</strong> No problem. Thanks, Dianne.</p>
+<img src="http://feeds.feedburner.com/~r/SforceBlog/~4/DC0C_6nUBdo" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://blogs.developerforce.com/tech-pubs/2013/02/ask-the-pm-what-is-force-com-canvas.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://blogs.developerforce.com/tech-pubs/2013/02/ask-the-pm-what-is-force-com-canvas.html</feedburner:origLink></item>
+		<item>
+		<title>Bringing Code and Community Together</title>
+		<link>http://feedproxy.google.com/~r/SforceBlog/~3/n2NNK-rKdoM/bringing-code-and-community-together.html</link>
+		<comments>http://blogs.developerforce.com/developer-relations/2013/02/bringing-code-and-community-together.html#comments</comments>
+		<pubDate>Mon, 11 Feb 2013 11:00:49 +0000</pubDate>
+		<dc:creator>Michael Floyd</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[code samples]]></category>
+		<category><![CDATA[code share]]></category>
+		<category><![CDATA[recipes]]></category>
+
+		<guid isPermaLink="false">http://26.12651</guid>
+		<description><![CDATA[<a href="http://blogs.developerforce.com/developer-relations/2013/02/bringing-code-and-community-together.html"><img align="left" hspace="5" width="150" src="http://blogs.developerforce.com/developer-relations/files/2013/01/Michael_109x150-e1360178104256.jpg" class="alignleft wp-post-image tfe" alt="" title="Michael_109x150" /></a>Michael shares his plans for moving Workbook Recipes and Code Share into a more community-oriented process, then shares a code sample for creating your own Visual Force components. He also explains how you can contribute to Developer Force.]]></description>
+			<content:encoded><![CDATA[<p><a class="overlay" href="http://blogs.developerforce.com/developer-relations/files/2013/01/Michael_109x150-e1360178104256.jpg"><img class="alignleft size-full wp-image-12611" title="Michael_109x150" src="http://blogs.developerforce.com/developer-relations/files/2013/01/Michael_109x150-e1360178104256.jpg" alt="" width="72" height="100" /></a>Coming from a community of enterprise software developers, I’ve spent the last three weeks evaluating the community aspects of Developer Force with an eye toward improving our overall process. One of those areas involves Workbook Recipes and Code Share, or what we collectively refer to as code samples. These are the techniques you’ve discovered, the problems you’ve sweated over and hope to share with like-minded developers in the hope that others can avoid the painstaking roadblocks you’ve encountered along the way.</p>
+<p>As I’ve discovered, submissions to recipes and code share have been suspended and the current process for submitting code samples is on hold. The reason for suspending submissions is that we lacked the internal resources to support the process. Up to this point the process for submitting code samples to Developer Force was to:</p>
+<ol start="1">
+<li>Submit your sample to the editorial team at Developer Force.</li>
+<li>Wait for feedback.</li>
+<li>Revise, resubmit and iterate until the code sample met editorial standards.</li>
+<li>Wait until the moderator posts so you can announce your code sample over social media channels.</li>
+</ol>
+<p>&nbsp;</p>
+<p>As a community team leader with a strong bias towards open source sharing, I believe we can improve that process. Developers are used to sharing whatever they want in public code-sharing sites and letting the community vet the code, fork larger projects, and otherwise collaborate and improve them. From there it’s not difficult to make the leap to Github. Aside from being almost ubiquitous as a code-sharing site, developers are familiar with its features and are used to working in this collaborative fashion.</p>
+<p>So, I would like to share our plan for migrating our current code base over to Github. I’d also like to share one of the many recent recipes I’ve received recently.</p>
+<p>Our biggest issue at the moment is resources. Fortunately that’s what I’m here for. I’ll be working with developers on our team to review our existing recipes and code samples. We’ll ferret out some of the older samples that may be deprecated, then begin the process of migrating the archive. I’ll also be looking for the best way to structure the archive. Once I have the basic pieces in place, we’ll open the new Code Samples page on Developer Force.</p>
+<p>I’ve put this project on my personal priority list and hope to have a basic code sharing mechanism up quickly. In the meantime, please feel free to share your code samples with me, as well as ideas you think might make for a more collaborative experience. Some ideas I’ve received recently include a list of “Editor’s Picks” and “Features of the Week.”</p>
+<p>To wrap this post, I’d like to share a code sample I received this week from one of our Senior SFDC consultants, Afzal Mohammad. In this share, Afzal shows how .Net developers can create a reusable Visual Force component that takes a SOQL query, a list of headers and a list of fields at design time, and return the results. VF components are a powerful way to extend the environment so I wanted to share the technique. You’ll find <a href="http://yoafzal.wordpress.com/2013/02/04/datatables-plug-in-as-a-completely-reusable-visualforce-component/" target="_blank">his code sample at his blog</a>.</p>
+<p><strong>Old Business</strong></p>
+<p>Last week<a href="http://blogs.developerforce.com/developer-relations/2013/01/hello-world-2.html" target="_blank"> I put out a call for articles</a>, but as some have noted I neglected to mention where you can send these. The <a href="http://wiki.developerforce.com/page/Contribute" target="_blank">Developer Force Contribute page</a> contains all of the information and links you&#8217;ll need to submit articles. If you need to reach me directly you can find me on Twitter mentioning @codeJournalist, through <a title="Michael Floyd's LinkedIn page" href="http://www.linkedin.com/in/beyondhtml/" target="_blank">my LinkedIn page</a> or right here on the Boards.</p>
+<p>&#8211; Michael</p>
+<img src="http://feeds.feedburner.com/~r/SforceBlog/~4/n2NNK-rKdoM" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://blogs.developerforce.com/developer-relations/2013/02/bringing-code-and-community-together.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://blogs.developerforce.com/developer-relations/2013/02/bringing-code-and-community-together.html</feedburner:origLink></item>
+		<item>
+		<title>Tweets of the Week</title>
+		<link>http://feedproxy.google.com/~r/SforceBlog/~3/ymnlC-ZKLBQ/tweets-of-the-week-8.html</link>
+		<comments>http://blogs.developerforce.com/developer-relations/2013/02/tweets-of-the-week-8.html#comments</comments>
+		<pubDate>Fri, 08 Feb 2013 21:19:19 +0000</pubDate>
+		<dc:creator>Katie Penn</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Developer Relations]]></category>
+		<category><![CDATA[Tweets]]></category>
+
+		<guid isPermaLink="false">http://26.12640</guid>
+		<description><![CDATA[<a href="http://blogs.developerforce.com/developer-relations/2013/02/tweets-of-the-week-8.html"><img align="left" hspace="5" width="150" src="http://blogs.developerforce.com/developer-relations/files/2013/02/Tweet-e1360178336498.jpg" class="alignleft wp-post-image tfe" alt="" title="" /></a>We love to hear from our community throughout the week. Here our some of our favorite tweets from the world of @forcedotcom. Shout out to these characters in our awesome community: @hellerbr @evanshrugged @atorman @bob_buzzard]]></description>
+			<content:encoded><![CDATA[<p><a class="overlay" href="http://blogs.developerforce.com/developer-relations/files/2013/02/Tweet-e1360178336498.jpg"><img class="alignleft size-full wp-image-12609" src="http://blogs.developerforce.com/developer-relations/files/2013/02/Tweet-e1360178336498.jpg" alt="" width="100" height="100" /></a>We love to hear from our community throughout the week. Here our some of our favorite tweets from the world of <a href="https://twitter.com/forcedotcom">@forcedotcom</a>. Shout out to these characters in our awesome community:</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet"><p>Oh my gosh, testing webservices has became ridiculously easy with the new &#8220;StaticResourceCalloutMock&#8221; functionality. <a href="https://twitter.com/search/%23Thanks">#Thanks</a> @<a href="https://twitter.com/forcedotcom">forcedotcom</a> !</p>
+<p>— Hannes (@hellerbr) <a href="https://twitter.com/hellerbr/status/299912677369733122">February 8, 2013</a></p></blockquote>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet"><p>@<a href="https://twitter.com/atorman">atorman</a> @<a href="https://twitter.com/forcedotcom">forcedotcom</a> This feature has absolutely changed the way I work as an admin. Probably my favorite enhancement ever.</p>
+<p>— Evan Johnson (@evanshrugged) <a href="https://twitter.com/evanshrugged/status/299925962726965248">February 8, 2013</a></p></blockquote>
+<blockquote class="twitter-tweet"><p>Another milestone day for me &#8211; passed 6,000 posts on the @<a href="https://twitter.com/forcedotcom">forcedotcom</a> discussion boards! <a title="http://twitter.com/bob_buzzard/status/299200393412501504/photo/1" href="http://t.co/7N7FiFEg">twitter.com/bob_buzzard/st…</a></p>
+<p>— Keir Bowden (@bob_buzzard) <a href="https://twitter.com/bob_buzzard/status/299200393412501504">February 6, 2013</a></p></blockquote>
+<p>&nbsp;</p>
+<img src="http://feeds.feedburner.com/~r/SforceBlog/~4/ymnlC-ZKLBQ" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://blogs.developerforce.com/developer-relations/2013/02/tweets-of-the-week-8.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://blogs.developerforce.com/developer-relations/2013/02/tweets-of-the-week-8.html</feedburner:origLink></item>
+	</channel>
+</rss>

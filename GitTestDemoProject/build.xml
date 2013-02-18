@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Tasks for building and deploying to Salesforce" default="retrievePackage" basedir="." xmlns:sf="antlib:com.salesforce">
+	<!-- Define required jars-->
+    <path id="taskDependencies">
+    	<pathelement location="./lib/ant.jar"/>
+    	<pathelement location="./lib/trifectaSalesforceANT-1.0.jar"/>
+    </path>
+
+	<taskdef uri="antlib:com.salesforce"
+            resource="com/salesforce/antlib.xml"
+            classpath="./lib/ant-salesforce.jar"/>
+            
+	<property environment="env"/>
+	
+	<target name="retrievePackage" description="Retrieves the specified package from the specified organization. Pass the name of the deployment file to build the package from via -DdeployFile=[xml file name]." >
+		<delete dir="${basedir}/deploystage" />
+		<mkdir dir="${basedir}/deploystage" />
+
+		<echo>Retrieving code into ${basedir}/deploystage from ${sf.username}, ${sf.server} from packages/${deployFile}</echo>
+		<sf:retrieve 
+		   username="${sf.username}" 
+		   password="${sf.password}" 
+		   serverurl="${sf.server}" 
+		   retrieveTarget="${basedir}/deploystage"
+		   unpackaged="packages/${deployFile}"
+		   pollWaitMillis="10000"
+		   maxPoll="100"/>
+	</target>
+	
+	<target name="deployPackage" description="Deploys everything stored in the /deploystage directory. You must specify the org to deploy to via -propertyfile=[org property file name]. Use -DrunAllTests=[booleanValue] to run all the tests or skip them. Use -DisValidate=[booleanValue] to determine if you only want to validate the deploy (i.e., not actually deploy anything)">
+		<delete file="${basedir}/deploystage/deploy.zip"/>
+		<zip destfile="${basedir}/deploystage/deploy.zip" update="true">
+    		<fileset dir="${basedir}/deploystage" includes="**/*"/>
+		</zip>
+		<sf:deploy username="${sf.username}" password="${sf.password}" serverurl="${sf.server}" zipFile="${basedir}/deploystage/deploy.zip" maxPoll="2000" pollWaitMillis="10000" rollbackOnError="true" runAllTests="${runAllTests}" checkOnly="${isValidate}" logType="Debugonly" singlePackage="true" allowMissingFiles="false" />
+	</target>
+</project>
