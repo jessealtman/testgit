@@ -17,6 +17,19 @@
         <name>ApexTrigger</name>
     </types>
     <types>
+        <members>Audit__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Account-Account Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <members>Auditor</members>
+        <name>Profile</name>
+    </types>
+    <types>
         <members>*</members>
         <name>StaticResource</name>
     </types>
