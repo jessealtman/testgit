@@ -126,3 +126,17 @@ ERROR [2013-02-18 13:30:25,090] (SchemaBrowser.java:mouseUp:197) - Unable to ope
  WARN [2013-02-18 15:32:50,117] (ConnectionFactory.java:clearCache:212) - Clearing the following cached connections
  WARN [2013-02-18 15:32:50,126] (DescribeObjectRegistry.java:clearCache:657) - Clearing cached describes
  WARN [2013-02-18 15:32:50,128] (MetadataFactory.java:clearCache:120) - No cached metadata stubs
+ WARN [2013-02-18 20:11:40,776] (BuilderPayload.java:filterComponentsInConflict:264) - Retrieve result contains problem messages:
+ (1) deploystage/layouts/Account-Account Layout.layout: Invalid directory 'deploystage'
+ (2) deploystage/objects/Audit__c.object: Invalid directory 'deploystage'
+ (3) deploystage/profiles/Admin.profile: Invalid directory 'deploystage'
+ (4) deploystage/profiles/Auditor.profile: Invalid directory 'deploystage'
+ WARN [2013-02-18 20:11:40,783] (BuilderPayload.java:filterComponentsInConflict:268) - Remote retrieve result count [0] does not equal request count [4].
+ WARN [2013-02-18 20:11:40,784] (ProjectPackageList.java:getComponentByFilePath:717) - Component not found - component list is null or empty or file path is null
+ WARN [2013-02-18 20:11:40,785] (BuilderPayload.java:conflictCheck:309) - Layout 'deploystage/layouts/Account-Account Layout.layout' [unpackaged] not found in remote project package list.  Assuming no conflict.
+ WARN [2013-02-18 20:11:40,785] (ProjectPackageList.java:getComponentByFilePath:717) - Component not found - component list is null or empty or file path is null
+ WARN [2013-02-18 20:11:40,786] (BuilderPayload.java:conflictCheck:309) - CustomObject 'deploystage/objects/Audit__c.object' [unpackaged] not found in remote project package list.  Assuming no conflict.
+ WARN [2013-02-18 20:11:40,786] (ProjectPackageList.java:getComponentByFilePath:717) - Component not found - component list is null or empty or file path is null
+ WARN [2013-02-18 20:11:40,787] (BuilderPayload.java:conflictCheck:309) - Profile 'deploystage/profiles/Admin.profile' [unpackaged] not found in remote project package list.  Assuming no conflict.
+ WARN [2013-02-18 20:11:40,788] (ProjectPackageList.java:getComponentByFilePath:717) - Component not found - component list is null or empty or file path is null
+ WARN [2013-02-18 20:11:40,788] (BuilderPayload.java:conflictCheck:309) - Profile 'deploystage/profiles/Auditor.profile' [unpackaged] not found in remote project package list.  Assuming no conflict.

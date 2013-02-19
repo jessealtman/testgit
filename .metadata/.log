@@ -662,3 +662,47 @@ org.eclipse.jface.resource.DeviceResourceException: Unable to create resource Fi
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-18 20:11:40.782
+!MESSAGE  WARN [2013-02-18 20:11:40,776] (BuilderPayload.java:filterComponentsInConflict:264) - Retrieve result contains problem messages:
+ (1) deploystage/layouts/Account-Account Layout.layout: Invalid directory 'deploystage'
+ (2) deploystage/objects/Audit__c.object: Invalid directory 'deploystage'
+ (3) deploystage/profiles/Admin.profile: Invalid directory 'deploystage'
+ (4) deploystage/profiles/Auditor.profile: Invalid directory 'deploystage'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-18 20:11:40.784
+!MESSAGE  WARN [2013-02-18 20:11:40,783] (BuilderPayload.java:filterComponentsInConflict:268) - Remote retrieve result count [0] does not equal request count [4].
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-18 20:11:40.785
+!MESSAGE  WARN [2013-02-18 20:11:40,784] (ProjectPackageList.java:getComponentByFilePath:717) - Component not found - component list is null or empty or file path is null
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-18 20:11:40.785
+!MESSAGE  WARN [2013-02-18 20:11:40,785] (BuilderPayload.java:conflictCheck:309) - Layout 'deploystage/layouts/Account-Account Layout.layout' [unpackaged] not found in remote project package list.  Assuming no conflict.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-18 20:11:40.786
+!MESSAGE  WARN [2013-02-18 20:11:40,785] (ProjectPackageList.java:getComponentByFilePath:717) - Component not found - component list is null or empty or file path is null
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-18 20:11:40.786
+!MESSAGE  WARN [2013-02-18 20:11:40,786] (BuilderPayload.java:conflictCheck:309) - CustomObject 'deploystage/objects/Audit__c.object' [unpackaged] not found in remote project package list.  Assuming no conflict.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-18 20:11:40.787
+!MESSAGE  WARN [2013-02-18 20:11:40,786] (ProjectPackageList.java:getComponentByFilePath:717) - Component not found - component list is null or empty or file path is null
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-18 20:11:40.787
+!MESSAGE  WARN [2013-02-18 20:11:40,787] (BuilderPayload.java:conflictCheck:309) - Profile 'deploystage/profiles/Admin.profile' [unpackaged] not found in remote project package list.  Assuming no conflict.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-18 20:11:40.788
+!MESSAGE  WARN [2013-02-18 20:11:40,788] (ProjectPackageList.java:getComponentByFilePath:717) - Component not found - component list is null or empty or file path is null
+
+
+!ENTRY com.salesforce.ide.core 2 0 2013-02-18 20:11:40.788
+!MESSAGE  WARN [2013-02-18 20:11:40,788] (BuilderPayload.java:conflictCheck:309) - Profile 'deploystage/profiles/Auditor.profile' [unpackaged] not found in remote project package list.  Assuming no conflict.
+
